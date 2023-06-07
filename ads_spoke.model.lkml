@@ -1,6 +1,7 @@
 connection: "thelook_bq"
 
 include: "/explores/order_items.explore.lkml"
+include: "/explores/users.explore.lkml"
 # include: "//hub/views/order_items.view.lkml"
 # include: "//hub/explores/explores.explore.lkml"
 

@@ -1,5 +1,5 @@
 include: "//hub/explores/explores.explore.lkml"
-include: "/views/*.view.lkml"
+include: "/views/inventory_items.view.lkml"
 
 
 explore: +order_items {
