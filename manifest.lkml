@@ -8,7 +8,8 @@ project_name: "ads"
 # }
 
 remote_dependency: hub {
-  url: "https://github.com/amysouthwood/gcp_hub"
+  # url: "https://github.com/amysouthwood/gcp_hub"
+  url: "git@github.com:amysouthwood/gcp_hub.git"
   ref: "master"
 #  override_constant:  {}
 }

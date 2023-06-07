@@ -1,0 +1,10 @@
+include: "//hub/explores/explores.explore.lkml"
+include: "/views/*.view.lkml"
+
+
+explore: +order_items {
+  join: inventory_items {
+    sql_on: ${order_items.inventory_item_id} = ${inventory_items.id} ;;
+    relationship: many_to_one
+  }
+}
