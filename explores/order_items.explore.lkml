@@ -1,4 +1,4 @@
-include: "//hub/explores/explores.explore.lkml"
+include: "//hub/explores/order_items.explore.lkml"
 include: "/views/inventory_items.view.lkml"
 
 
