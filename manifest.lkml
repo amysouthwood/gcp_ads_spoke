@@ -1,4 +1,4 @@
-project_name: "ads"
+project_name: "sales_spoke"
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
