@@ -1,4 +1,4 @@
 remote_dependency: hub {
-  url: "git@github.com:amysouthwood/gcp_hub.git"
-  ref: "8ec55efade6088f057758c0ba10cf634ca7f916e"
+  url: "https://github.com/amysouthwood/gcp_hub"
+  ref: "892ee61f9294613b4f5d5147e13cff0490964e60"
 }
